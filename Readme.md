@@ -10,13 +10,14 @@ const num1 = numberToWords(100)
 // num1 = "one hundred"
 
 const num1 = numberToWords(9934053)
-// num2 = "nine million nine hundred and thirty four thousand and fifty three"```
+// num2 = "nine million nine hundred and thirty four thousand and fifty three"
+```
 
 ## Tests
 
   To run the test suite, first install the dependencies, then run `npm test`:
 
-```bash
+``` bash
 $ npm install
 $ npm test
 ```
