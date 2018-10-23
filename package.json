@@ -4,6 +4,7 @@
   "description": "",
   "main": "numbers-to-strings.js",
   "scripts": {
+    "lint": "eslint .",
     "test": "mocha ."
   },
   "author": "",
