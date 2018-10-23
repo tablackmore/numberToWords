@@ -1,4 +1,4 @@
-const numberToWords = require('./numberToWords')
+const numberToWords = require('./src/numberToWords')
 
 // Converting a single number
 const a = -123456789

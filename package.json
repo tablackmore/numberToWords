@@ -5,7 +5,7 @@
   "main": "numbers-to-strings.js",
   "scripts": {
     "lint": "eslint .",
-    "test": "mocha ."
+    "test": "mocha ./src"
   },
   "author": "",
   "license": "MIT",
